@@ -1,7 +1,7 @@
 # VeloxKinesis
 
 [![NuGet version](https://img.shields.io/nuget/v/VeloxKinesis.svg?style=for-the-badge)](https://www.nuget.org/packages/VeloxKinesis/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/YourUsername/VeloxKinesis?tab=MIT-1-ov-file)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/MrRoxandi/VeloxKinesis?tab=MIT-1-ov-file)
 
 **VeloxKinesis** is a high-performance, modern, and user-friendly .NET library for simulating keyboard and mouse input on Windows. It's built on the low-level `SendInput` WinAPI, providing a powerful and reliable way to automate user actions, create macros, or build testing tools.
 
