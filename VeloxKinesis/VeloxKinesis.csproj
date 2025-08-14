@@ -1,10 +1,21 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net8.0;net9.0</TargetFrameworks>
+    <TargetFrameworks>net8.0-windows;net9.0-windows</TargetFrameworks>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Title>VeloxKinesis</Title>
+    <Authors>Roxandi</Authors>
+    <Description>VeloxKinesis is a high-performance, modern, and user-friendly .NET library for simulating keyboard and mouse input on Windows.</Description>
+    <PackageProjectUrl>https://github.com/MrRoxandi/VeloxKinesis</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MrRoxandi/VeloxKinesis</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <PackageTags>input simulation;keyboard;mouse;automation;windows;win32;winapi;sendinput;macro;macros;ui-automation;csharp;dotnet;wrapper;fluent;velox;veloxkinesis</PackageTags>
+    <PackageReleaseNotes>1.0.0 init release</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
