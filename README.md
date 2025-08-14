@@ -13,7 +13,7 @@
   - **Powerful Fluent API**: Use the `KinesisBuilder` to chain complex sequences of events (e.g., hold Shift, type text, move the mouse, and click) into a single, efficient `SendInput` call.
 - ⌨️ **Comprehensive Keyboard Control**: Simulate key presses, holds, and releases using virtual key codes. Easily type full strings, including Unicode characters.
 - 🖱️ **Full Mouse Emulation**: Simulate mouse movement (relative and absolute), button clicks, double clicks, and vertical/horizontal scrolling.
-- ⛓️ **Thread-Safe by Design**: The static `Kinesis` is fully thread-safe, allowing for safe use in multi-threaded applications.
+- ⛓️ **Thread-Safe by Design**: The static `Kinesis` is fully thread-safe, allowing for safe use in multithreaded applications.
 - ✨ **Clean and Modern**: No-nonsense API that is intuitive and easy to integrate into any .NET project targeting Windows.
 - 📝 **Well-Documented**: Includes XML comments for full IntelliSense support in your IDE.
 
@@ -167,4 +167,4 @@ Contributions are welcome! If you find a bug, have a feature request, or want to
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
